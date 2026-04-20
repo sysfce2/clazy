@@ -386,6 +386,7 @@
           <li xml:lang="ca">Corregeix un mètode de reemplaçament incorrecte per a QMap::operator[]</li>
           <li xml:lang="ca-valencia">Corregix un mètode de reemplaçament incorrecte per a QMap::operator[]</li>
           <li xml:lang="fr">Correction de la méthode de remplacement incorrecte pour QMap::operator[]</li>
+          <li xml:lang="he">תוקנה מתודת החלפה שגויה ל־QMap::operator[]‎</li>
           <li xml:lang="it">Corregge il metodo di sostituzione errato per QMap::operator[]</li>
           <li xml:lang="ka">გასწორდა მეთოდის არასწორი ჩანაცვლება ფუნქციისთვის QMap::operator[]</li>
           <li xml:lang="nl">Corrigeer de onjuiste vervangingsmethode voor QMap::operator[]</li>
@@ -398,6 +399,7 @@
           <li xml:lang="ar">جعل المشروع يترجم باستخدام LLVM22. إصلاح اختبارات qhash-namespace و fully-qualified-moc-types و old-style-connect</li>
           <li xml:lang="ca">Fa que el projecte compili amb LLVM22. S'han corregit les proves «qhash-namespace», «fully-qualified-moc-types», «old-style-connect»</li>
           <li xml:lang="ca-valencia">Fa que el projecte compile amb LLVM22. S'han corregit les proves «qhash-namespace», «fully-qualified-moc-types», «old-style-connect»</li>
+          <li xml:lang="he">אפשר לגרום למיזם לעבור הידור עם LLVM22. הבדיקות qhash-namespace‏, fully-qualified-moc-types,‏ old-style-connect תוקנו</li>
           <li xml:lang="it">Rende il progetto compilabile con LLVM22. I test qhash-namespace, fully-qualified-moc-types e old-style-connect sono stati corretti</li>
           <li xml:lang="ka">პროექტი ახლა LLVM22-ით კომპილირდება. ასევე გასწორდა შემოწმებები qhash-namespace, fully-qualified-moc-types და old-style-connect</li>
           <li xml:lang="nl">Zorg ervoor dat het project compileert met LLVM22. qhash-namespace, fully-qualified-moc-types en old-style-connect tests zijn gecorrigeerd</li>
@@ -543,6 +545,7 @@
           <li xml:lang="ca-valencia">use-chrono-in-qtimer: corregix una fallada en utilitzar capçaleres precompilades</li>
           <li xml:lang="es">use-chrono-in-qtimer: Se ha corregido un fallo cuando se usan cabeceras precompiladas.</li>
           <li xml:lang="fr">use-chrono-in-qtimer : correction d'un plantage lors de l'utilisation des en-têtes précompilés</li>
+          <li xml:lang="he">use-chrono-in-qtimer: תוקנה קריסה בעת שימוש בכותרות שהודרו מראש</li>
           <li xml:lang="it">use-chrono-in-qtimer: corregge l'arresto anomalo quando si utilizzano intestazioni precompilate</li>
           <li xml:lang="ka">use-chrono-in-qtimer: გასწორდა ავარიული დასრულება წინასწარ დაკომპილებული თავსართების გამოყენებისას</li>
           <li xml:lang="nl">use-chrono-in-qtimer: verhelpt een crash bij gebruik van vooraf gecompileerde headers</li>
@@ -721,6 +724,7 @@
           <li xml:lang="ar">تعد فحوصات النقل qt6-\* مهجورة الآن وستزال في الإصدار القادم من كلازي</li>
           <li xml:lang="ca">qt6-\* L'adaptació de les comprovacions ara es consideren obsoletes i s'eliminaran en la propera versió de clazy</li>
           <li xml:lang="ca-valencia">qt6-\* L'adaptació de les comprovacions ara es consideren obsoletes i s'eliminaran en la propera versió de clazy</li>
+          <li xml:lang="he">בדיקות הסבה מסוג qt6-\* נחשבות למיושנות מעתה והן תוסרנה במהדורה הבאה של clazy</li>
           <li xml:lang="it">qt6-\* I controlli di conversione sono ora considerati deprecati e saranno rimossi nella prossima versione di clazy</li>
           <li xml:lang="ka">qt6-\* პორტირების შემოწმებები ახლა უკვე მოძველებულად ითვლება და clazy-ს შემდეგ ვერსიაში ამოღებული იქნება</li>
           <li xml:lang="nl">qt6-\* overzetcontroles worden nu als verouderd beschouwd en zullen verwijderd worden in de volgende uitgave van clazy</li>
@@ -983,6 +987,7 @@
         <p xml:lang="ca-valencia">Suport per a la compilació amb Clang 20</p>
         <p xml:lang="es">Compatibilidad con la compilación con Clang 20.</p>
         <p xml:lang="fr">Prise en charge de la compilation avec Clang 20</p>
+        <p xml:lang="he">תמיכה בהידור נגד Clang 20</p>
         <p xml:lang="it">Supporto per la compilazione con Clang 20</p>
         <p xml:lang="ka">Clang 20-ით კომპილაციის მხარდაჭერა</p>
         <p xml:lang="nl">Ondersteuning voor compilatie met Clang 20</p>
@@ -997,6 +1002,7 @@
         <p xml:lang="ca-valencia">augmenta el nivell de detall d'alguns missatges d'avís</p>
         <p xml:lang="es">Se ha aumentado la verbosidad de algunos mensajes de advertencia.</p>
         <p xml:lang="fr">augmenter la verbosité de certains messages d'avertissement</p>
+        <p xml:lang="he">הגברת הפירוט של חלק מהודעות האזהרה</p>
         <p xml:lang="it">aumenta la verbosità di alcuni messaggi di avviso</p>
         <p xml:lang="ka">გაიზარდა ზოგიერთი გაფრთხილების შეტყობინების დეტალურობა</p>
         <p xml:lang="nl">de uitgebreidheid van sommige waarschuwingsberichten verhogen</p>
@@ -1067,6 +1073,7 @@
           <li xml:lang="ca-valencia">qbytearray-conversion-to-c-style</li>
           <li xml:lang="es">qbytearray-conversion-to-c-style</li>
           <li xml:lang="fr">qbytearray-conversion-to-c-style</li>
+          <li xml:lang="he">qbytearray-conversion-to-c-style</li>
           <li xml:lang="it">qbytearray-conversion-to-c-style</li>
           <li xml:lang="ka">qbytearray-conversion-to-c-style</li>
           <li xml:lang="nl">qbytearray-conversion-to-c-style</li>
@@ -1241,6 +1248,7 @@
           <li xml:lang="ca-valencia">S'han corregit els falsos positius de `Q_EMIT(someSignal())`</li>
           <li xml:lang="es">Los falsos positivos para `Q_EMIT(unaSeñal())` se han corregido.</li>
           <li xml:lang="fr">Les faux positifs pour « Q_EMIT(someSignal()) » sont maintenant corrigés</li>
+          <li xml:lang="he">חיוביים כוזבים עבור `Q_EMIT(someSignal())` תקינים מעתה</li>
           <li xml:lang="it">I falsi positivi per `Q_EMIT(someSignal())` sono stati ora corretti</li>
           <li xml:lang="ka">გასწორდა ცრუ დადებითები `Q_EMIT(someSignal())`-ისთვის</li>
           <li xml:lang="nl">De foutieve meldingen voor `Q_EMIT(someSignal())` zijn nu verholpen</li>
@@ -1487,6 +1495,7 @@
           <li xml:lang="ca">S'ha corregit una fallada a copyable-polymorphic quan s'ha activat el PCH</li>
           <li xml:lang="ca-valencia">S'ha corregit una fallada a copyable-polymorphic quan s'ha activat el PCH</li>
           <li xml:lang="fr">Correction d'un plantage dans copyable-polymorphic lorsque PCH était activé</li>
+          <li xml:lang="he">תוקנה קריסה ב־copyable-polymorphic כש־PCH היה פעיל</li>
           <li xml:lang="it">Corretto l'arresto anomalo in copyable-polymorphic quando PCH è abilitato</li>
           <li xml:lang="ka">გასწორდა ავარიული დასრულება copyable-polymorphic-ში, როცა PCH ჩართული იყო</li>
           <li xml:lang="nl">opgelost crash in copyable-polymorphic wanneer PCH was ingeschakeld</li>
@@ -1522,6 +1531,7 @@
           <li xml:lang="ca">S'ha corregit un alentiment del clazy introduït a la 1.8. Ara pot ser fins a 4x més ràpid.</li>
           <li xml:lang="ca-valencia">S'ha corregit un alentiment de clazy introduït a la 1.8. Ara pot ser fins a 4x més ràpid.</li>
           <li xml:lang="fr">Correction du ralentissement de Clazy introduit dans la version 1.8. Cela peut être jusqu'à 4 fois plus rapide maintenant.</li>
+          <li xml:lang="he">תוקנה האטה ב־clazy שהחלה ב־1.8. מעתה יש שיפור ביצועים עד פי 4.</li>
           <li xml:lang="it">Corretto il problema del rallentamento introdotto nella versione 1.8. Ora è fino a 4 volte più veloce.</li>
           <li xml:lang="ka">გასწორდა 1.8 ვერსიაში გაჩენილი clazy-ს შენელება და ახლა 4-ჯერ უფრო სწრაფია.</li>
           <li xml:lang="nl">opgelost clazy vertraging geïntroduceerd in 1.8. Het kan nu tot 4x sneller.</li>
@@ -1535,6 +1545,7 @@
           <li xml:lang="ca">range-loop s'ha dividit entre range-loop-detach i range-loop-reference</li>
           <li xml:lang="ca-valencia">range-loop s'ha dividit entre range-loop-detach i range-loop-reference</li>
           <li xml:lang="fr">range-loop a été divisée en range-loop-detach et range-loop-reference</li>
+          <li xml:lang="he">range-loop פוצל ל־range-loop-detach ול־range-loop-reference</li>
           <li xml:lang="it">range-loop è stato diviso in range-loop-detach e range-loop-reference</li>
           <li xml:lang="ka">range-loop გაიყო ორად: range-loop-detach და range-loop-reference</li>
           <li xml:lang="nl">range-loop was gesplitst in range-loop-detach en range-loop-reference</li>
@@ -1549,6 +1560,7 @@
           <li xml:lang="ca-valencia">S'han corregit els falsos positius de -Wclazy-connect-non-signal</li>
           <li xml:lang="es">Se han corregido los falsos positivos de -Wclazy-connect-non-signal.</li>
           <li xml:lang="fr">Correction des faux positifs de -Wclazy-connect-non-signal</li>
+          <li xml:lang="he">תוקנו חיוביים כוזבים עם ‎-Wclazy-connect-non-signal</li>
           <li xml:lang="it">Corretti i falsi positivi -Wclazy-connect-non-signal</li>
           <li xml:lang="ka">გასწორდა -Wclazy-connect-non-signal ცრუ დადებითები</li>
           <li xml:lang="nl">opgelost -Wclazy-connect-non-signal false-positives</li>
@@ -1766,6 +1778,7 @@
           <li xml:lang="ca">heap-allocated-small-trivial-type: menys falsos positius</li>
           <li xml:lang="ca-valencia">heap-allocated-small-trivial-type: menys falsos positius</li>
           <li xml:lang="fr">heap-allocated-small-trivial-type : moins de faux positifs</li>
+          <li xml:lang="he">heap-allocated-small-trivial-type: פחות חיוביים כוזבים</li>
           <li xml:lang="it">heap-allocated-small-trivial-type: meno falsi positivi</li>
           <li xml:lang="ka">heap-allocated-small-trivial-type: ნაკლები ცრუ დადებითი</li>
           <li xml:lang="nl">heap-allocated-small-trivial-type: minder false-positives</li>
@@ -1944,6 +1957,7 @@
         <p xml:lang="ca">El LLVM mínim s'ha pujat a 5.0</p>
         <p xml:lang="ca-valencia">LLVM mínim s'ha pujat a 5.0</p>
         <p xml:lang="fr">La version minimale de LLVM a été portée vers la version 5.0</p>
+        <p xml:lang="he">גרסת ה־LLVM המזערית עלתה ל־5.0</p>
         <p xml:lang="it">La versione minima di LLVM è stata portata a 5.0</p>
         <p xml:lang="ka">LLVM-ის მინიმალური ვერსია აწეულია 5.0-ზე</p>
         <p xml:lang="nl">De minimale LLVM-waarde is verhoogd naar 5.0</p>
@@ -1968,6 +1982,7 @@
         <p xml:lang="ar">يصدر كلازي الآن ملف yaml بالاستبدالات، ليُطبق باستخدام clang-apply-replacements.</p>
         <p xml:lang="ca">EL Clazy ara exporta un fitxer yaml amb els reemplaçaments, que s'aplicarà amb clang-apply-replacements.</p>
         <p xml:lang="ca-valencia">EL Clazy ara exporta un fitxer yaml amb els reemplaçaments, que s'aplicarà amb clang-apply-replacements.</p>
+        <p xml:lang="he">Clazy מייצא מעתה קובץ yaml עם ההחלפות, מתאים להחלה עם clang-apply-replacements.</p>
         <p xml:lang="it">Clazy ora esporta un file yaml con le sostituzioni, da applicare con clang-apply-replacements.</p>
         <p xml:lang="ka">Clazy ახლა yaml ფაილს ჩანაცვლებებით გაიტანს, რომ გადაატაროთ ბრძანებით clang-apply-replacements.</p>
         <p xml:lang="nl">Clazy exporteert nu een YAML-bestand met de vervangingen, dat kan worden toegepast met clang-apply-replacements.</p>
@@ -1981,6 +1996,7 @@
         <p xml:lang="ca">De la mateixa manera que ho fan altres eines del clang.</p>
         <p xml:lang="ca-valencia">De la mateixa manera que ho fan altres eines de clang.</p>
         <p xml:lang="fr">De la même manière que le font les autres outils comme Clang.</p>
+        <p xml:lang="he">באותה הדרך שכלים אחרים של clang עושים את זה.</p>
         <p xml:lang="it">Nello stesso modo in cui lo fanno gli altri strumenti clang.</p>
         <p xml:lang="ka">იგივენაირად, როგორც ამას clang აკეთებს.</p>
         <p xml:lang="nl">Op dezelfde manier als andere clang-hulpmiddelen dat doen.</p>
@@ -1993,6 +2009,7 @@
         <p xml:lang="ar">طريقة تفعيل إعادة كتابة الكود الآن هي: -Xclang -plugin-arg-clazy -Xclang export-fixes لـ clang</p>
         <p xml:lang="ca">La manera d'habilitar la reescriptura de codi és ara: -Xclang -plugin-arg-clazy -Xclang export-fixes per al clang</p>
         <p xml:lang="ca-valencia">La manera d'habilitar la reescriptura de codi és ara: -Xclang -plugin-arg-clazy -Xclang export-fixes per a clang</p>
+        <p xml:lang="he">הדרך להפעיל שכתוב קוד מעתה היא: -Xclang -plugin-arg-clazy -Xclang export-fixes ל־clang</p>
         <p xml:lang="it">Il modo per abilitare la riscrittura del codice è ora: -Xclang -plugin-arg-clazy -Xclang export-fixes per clang</p>
         <p xml:lang="ka">ახლა გზა, რომლითაც კოდის გადაწერა შეგიძლიათ, ჩართოთ, არის: -Xclang -plugin-arg-clazy -Xclang export-fixes clang-ისთვის</p>
         <p xml:lang="nl">De manier om codeherschrijving in te schakelen is nu: -Xclang -plugin-arg-clazy -Xclang export-fixes voor clang</p>
@@ -2006,6 +2023,7 @@
         <p xml:lang="ca">o -export-fixes=somefile.yaml per al clazy-standalone</p>
         <p xml:lang="ca-valencia">o -export-fixes=somefile.yaml per a clazy-standalone</p>
         <p xml:lang="fr">ou -export-fixes=somefile.yaml pour clazy-standalone</p>
+        <p xml:lang="he">או ‎-export-fixes=somefile.yaml ל־clazy-standalone</p>
         <p xml:lang="it">o -export-fixes=somefile.yaml per clazy-standalone</p>
         <p xml:lang="ka">ან -export-fixes=somefile.yaml clazy-standalone-ისთვის</p>
         <p xml:lang="nl">of -export-fixes=somefile.yaml voor clazy-standalone</p>
@@ -2188,6 +2206,7 @@
           <li xml:lang="ca">range-loop ara permet afegir refs o const-ref que manquen</li>
           <li xml:lang="ca-valencia">range-loop ara permet afegir refs o const-ref que falten</li>
           <li xml:lang="fr">range-loop prend maintenant en charge l'ajout de références manquantes ou de const-ref</li>
+          <li xml:lang="he">range-loop תומך מעתה בהוספת הפניות או const-ref חסרות</li>
           <li xml:lang="it">range-loop ora supporta l'aggiunta di riferimenti mancanti o const-ref</li>
           <li xml:lang="ka">range-loop-ს ახლა აქვს ნაკლული refs-ების, ან const-ref-ების დამატების მხარდაჭერა</li>
           <li xml:lang="nl">range-loop ondersteunt nu het toevoegen van ontbrekende refs of const-ref.</li>
@@ -2201,6 +2220,7 @@
           <li xml:lang="ca">range-loop ara permet afegir qAsConst()</li>
           <li xml:lang="ca-valencia">range-loop ara permet afegir qAsConst()</li>
           <li xml:lang="fr">la boucle range prend désormais en charge l'ajout de qAsConst()</li>
+          <li xml:lang="he">range-loop תומך מעתה בהוספת qAsConst()‎</li>
           <li xml:lang="it">range-loop ora supporta l'aggiunta di qAsConst()</li>
           <li xml:lang="ka">range-loop-ს ახლა qAsConst()-ის დამატების მხარდაჭერა აქვს</li>
           <li xml:lang="nl">range-loop ondersteunt nu toevoegen van qAsConst()</li>
@@ -2227,6 +2247,7 @@
           <li xml:lang="ca">S'ha introduït la variable «env» de CLAZY_FIXIT_SUFFIX</li>
           <li xml:lang="ca-valencia">S'ha introduït la variable «env» de CLAZY_FIXIT_SUFFIX</li>
           <li xml:lang="fr">Introduction de la variable d'environnement « CLAZY_FIXIT_SUFFIX »</li>
+          <li xml:lang="he">משתנה הסביבה CLAZY_FIXIT_SUFFIX הושק</li>
           <li xml:lang="it">Introdotta la variabile di ambiente CLAZY_FIXIT_SUFFIX</li>
           <li xml:lang="ka">გამოჩნდა CLAZY_FIXIT_SUFFIX გარემოს ცვლადი</li>
           <li xml:lang="nl">CLAZY_FIXIT_SUFFIX omgevingsvariabele geïntroduceerd</li>
@@ -2240,6 +2261,7 @@
         <p xml:lang="ar">أزيل دعم الخيار الغامض -DCLAZY_BUILD_UTILS_LIB لتبسيط ملف CMakeLists.txt</p>
         <p xml:lang="ca">S'ha eliminat el suport per a l'obscur -DCLAZY_BUILD_UTILS_LIB per a simplificar els CMakeLists.txt</p>
         <p xml:lang="ca-valencia">S'ha eliminat el suport per a l'obscur -DCLAZY_BUILD_UTILS_LIB per a simplificar els CMakeLists.txt</p>
+        <p xml:lang="he">הוסרה תמיכה ב־‎-DCLAZY_BUILD_UTILS_LIB הערטילאי כדי לפשט את ה־CMakeLists.txt</p>
         <p xml:lang="it">Rimosso il supporto per l'oscuro -DCLAZY_BUILD_UTILS_LIB per semplificare CMakeLists.txt</p>
         <p xml:lang="ka">წაიშალა ნაკლებად ცნობილი -DCLAZY_BUILD_UTILS_LIB-ის მხარდაჭერა CMakeLists.txt-ის გასამარტივებლად</p>
         <p xml:lang="nl">Ondersteuning voor de obscure -DCLAZY_BUILD_UTILS_LIB is verwijderd om het bestand CMakeLists.txt te vereenvoudigen.</p>
@@ -2253,6 +2275,7 @@
         <p xml:lang="ca">S'ha canviat el nom del connector clazy de ClangLazy.so a ClazyPlugin.so</p>
         <p xml:lang="ca-valencia">S'ha canviat el nom del connector clazy de ClangLazy.so a ClazyPlugin.so</p>
         <p xml:lang="fr">Le module externe de Clazy a été renommé de ClangLazy.so à ClazyPlugin.so</p>
+        <p xml:lang="he">השם של תוסף clazy השתנה מ־ClangLazy.so ל־ClazyPlugin.so</p>
         <p xml:lang="it">Rinominata l'estensione Clazy da ClangLazy.so a ClazyPlugin.so</p>
         <p xml:lang="ka">clazy დამატების სახელი შეიცვალა ClangLazy.so-დან ClazyPlugin.so-ზე</p>
         <p xml:lang="nl">De Clazy-plug-in is hernoemd van ClangLazy.so naar ClazyPlugin.so</p>
@@ -2294,6 +2317,7 @@
           <li xml:lang="ca">S'ha corregit una fallada (asserció del clang) a raw-environment-function</li>
           <li xml:lang="ca-valencia">S'ha corregit una fallada (asserció de clang) a raw-environment-function</li>
           <li xml:lang="fr">Correction d'un plantage (Assertion clang) dans raw-environment-function</li>
+          <li xml:lang="he">תוקנה קריסה (clang assert) ב־raw-environment-function</li>
           <li xml:lang="it">Risolto un arresto anomalo (clang assert) in raw-environment-function</li>
           <li xml:lang="ka">გასწორდა ავარიული დასრულება (clang assert) ფუნქციაში raw-environment-function</li>
           <li xml:lang="nl">Een crash (clang assert) in raw-environment-function is verholpen</li>
@@ -2848,6 +2872,7 @@
         <p xml:lang="ar">إضافة الخيار -qt-developer، فعند بناء Qt باستخدام كلازي سيلتزم بإرشادات محددة لـ Qt، وهي ليست كثيرة حاليًا ولكن القائمة ستكبر.</p>
         <p xml:lang="ca">S'ha afegit l'opció -qt-developer, que quan es construeixin les Qt amb clazy complirà les directrius específiques per a les Qt, que ara mateix no són moltes, però la llista creixerà.</p>
         <p xml:lang="ca-valencia">S'ha afegit l'opció -qt-developer, que quan es construïsquen les Qt amb clazy complirà les directrius específiques per a les Qt, que ara mateix no són moltes, però la llista creixerà.</p>
+        <p xml:lang="he">נוספה האפשרות ‎-qt-developer, בעת בניית Qt עם clazy היא תכבד הנחיות נקודתיות ל־Qt, שאינן רבות כרגע אבל הרשימה עוד תגדל.</p>
         <p xml:lang="it">Aggiunta l'opzione -qt-developer: quando si compila Qt con Clazy, saranno rispettate le linee guida specifiche per Qt, che al momento non sono molte, ma l'elenco crescerà.</p>
         <p xml:lang="ka">დაემატა პარამეტრი -qt-developer. როცა მიმდინარეობს Qt-ის აგება clazy-ით, ის გაითვალისწინებს სპეციალურ პარამეტრებს Qt-ისთვის, რომლებიც ახლა ბევრი არაა, მაგრამ სია გაიზრდება.</p>
         <p xml:lang="nl">De optie -qt-developer is toegevoegd. Bij het compileren van Qt met Clazy wordt rekening gehouden met specifieke richtlijnen voor Qt. Deze richtlijnen zijn er momenteel nog niet veel, maar de lijst zal worden uitgebreid.</p>
@@ -2974,6 +2999,7 @@
           <li xml:lang="ar">ملف clazy-standalone التنفيذي. يسمح بتشغيل كلازي مقابل قاعدة بيانات تجميع JSON بدلًا من كونه ملحقًا. لا يدعم clang-tidy تحميل وحدات خارجية (https://github.com/llvm/llvm-project/issues/32086) لذا يعد هذا حلًا جيدًا.</li>
           <li xml:lang="ca">executable de clazy-standalone. Permet executar el clazy amb una base de dades de compilació JSON en lloc de com a connector. El clang-tidy no admet la càrrega de mòduls externs (https://github.com/llvm/llvm-project/issues/32086) així que aquesta és una solució bona.</li>
           <li xml:lang="ca-valencia">executable de clazy-standalone. Permet executar clazy amb una base de dades de compilació JSON en lloc de com a connector. clang-tidy no admet la càrrega de mòduls externs (https://github.com/llvm/llvm-project/issues/32086) així que esta és una solució bona.</li>
+          <li xml:lang="he">קובץ ההפעלה clazy-standalone. מאפשר להריץ את clazy כנגד מסד נתוני הידור ב־JSON במקום כתוסף. clang-tidy לא תומך בטעינת מודולים חיצוניים (https://github.com/llvm/llvm-project/issues/32086) אז זאת דרך לעקוף את זה.</li>
           <li xml:lang="it">Eseguibile clazy-standalone. Permette di eseguire clazy su un database di compilazione JSON anziché come estensione. clang-tidy non supporta il caricamento di moduli esterni (https://github.com/llvm/llvm-project/issues/32086), quindi questa è una buona soluzione alternativa.</li>
           <li xml:lang="ka">clazy-standalone გამშვები ფაილი საშუალებას იძლევა, clazy გაეშვას JSON კომპილაციის მონაცემთა ბაზაზე დანატების ნაცვლად. clang-tidy-ს არ აქვს გარე მოდულების ჩატვირთვის მხარდაჭერა(https://github.com/llvm/llvm-project/issues/32086), ამიტომ ეს კარგი გამოსავალია.</li>
           <li xml:lang="nl">clazy-standalone uitvoerbaar bestand. Hiermee kan clazy worden uitgevoerd met een JSON-compilatiedatabase in plaats van als een plug-in. clang-tidy ondersteunt het laden van externe modules niet (https://github.com/llvm/llvm-project/issues/32086), dus dit is een goede workaround.</li>
