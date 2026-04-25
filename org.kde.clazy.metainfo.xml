@@ -162,6 +162,7 @@
           <li xml:lang="ar">أنواع MOC المؤهلة بالكامل: إصلاح مشكلة النتائج الإيجابية الخاطئة في اختبار التراجع لأنواع المؤشرات/المراجع في العناصر العامة.</li>
           <li xml:lang="ca">fully-qualified-moc-types: corregeix una regressió de falsos positius de punters/tipus de referència en genèrics.</li>
           <li xml:lang="ca-valencia">fully-qualified-moc-types: corregix una regressió de falsos positius de punters/tipus de referència en genèrics.</li>
+          <li xml:lang="es">fully-qualified-moc-types: Se ha corregido la regresión de falsos positivos para los tipos de puntero/referencia en genéricos.</li>
           <li xml:lang="he">fully-qualified-moc-types: תוקן שלילי כוזב שחזר לסוגי מצביע/הפניה ב־generics (כלליים).</li>
           <li xml:lang="it">fully-qualified-moc-types: corregge la regressione dei falsi positivi per i tipi puntatore/riferimento nei generici.</li>
           <li xml:lang="ka">fully-qualified-moc-types: გასწორდა ცრუ დადებითი რეგრესია მაჩვენებლის/მიმმართველის ტიპებისთვის ზოგადებში.</li>
@@ -180,6 +181,7 @@
         <p xml:lang="ar">هذا إصدار تصحيحي يهدف إلى إصلاح مشكلات التكامل مع QtCreator و</p>
         <p xml:lang="ca">Aquesta és una versió de pedaços per a corregir problemes d'integració del QtCreator i</p>
         <p xml:lang="ca-valencia">Esta és una versió de pedaços per a corregir problemes d'integració de QtCreator i</p>
+        <p xml:lang="es">Lanzamiento que contiene parches para corregir los problemas de integración de QtCreator y</p>
         <p xml:lang="fr">Ceci est une version corrective pour résoudre les problèmes d'intégration de QtCreator et</p>
         <p xml:lang="he">זאת מהדורת טלאי לתיקון בעיות שילוב מול QtCreator וגם</p>
         <p xml:lang="it">Questa è una versione di correzione per risolvere i problemi di integrazione di QtCreator e</p>
@@ -194,6 +196,7 @@
         <p xml:lang="ar">التوافق مع الإصدارات الجديدة من Qt. يدعم هذا الإصدار إصدارات LLVM من 19 إلى 21.</p>
         <p xml:lang="ca">la compatibilitat amb les versiones noves de les Qt. Aquesta versió permet les versions 19 a 21 del LLVM.</p>
         <p xml:lang="ca-valencia">la compatibilitat amb les versiones noves de les Qt. Esta versió permet les versions 19 a 21 de LLVM.</p>
+        <p xml:lang="es">la compatibilidad con nuevas versiones de Qt. Este lanzamiento es compatible con las versiones 19 a 21 de LLVM.</p>
         <p xml:lang="he">תאימות לגרסאות Qt חדשות. המהדורה הזאת תומכת בגרסאות 19 עד 21 של LLVM.</p>
         <p xml:lang="it">compatibilità con le nuove versioni di Qt. Questa versione supporta le versioni di LLVM dalla 19 alla 21.</p>
         <p xml:lang="ka">ახალ Qt-ის ვერსიებთან თავსებადობის პრობლემების აღმოსაფხვრელად. ამ ვერსიას აქვს LLVM-ის ვერსიების მხარდაჭერა 19-დან 21-მდე.</p>
@@ -224,6 +227,7 @@
           <li xml:lang="ar">تُصدر التشخيصات دائمًا حتى لو لم تتضمن أي حلول. ويُستخدم هذا</li>
           <li xml:lang="ca">Sempre s'emeten els diagnòstics encara que no continguin cap correcció. Això s'utilitza</li>
           <li xml:lang="ca-valencia">Sempre s'emeten els diagnòstics encara que no continguen cap correcció. Açò s'utilitza</li>
+          <li xml:lang="es">Los diagnósticos se emiten siempre, incluso si no contienen correcciones. Esto se usa</li>
           <li xml:lang="fr">Les diagnostics sont toujours émis même s'ils ne contiennent aucun correctif. Cela est utilisé</li>
           <li xml:lang="he">אבחנות תמיד נפלטות אפילו אם הן לא מכילות הצעות לתיקון. מיועד</li>
           <li xml:lang="it">I messaggi diagnostici vengono sempre emessi anche se non contengono fixit. Questo viene utilizzato</li>
@@ -238,6 +242,7 @@
           <li xml:lang="ar">لتكاملها في بيئات تطوير التطبيقات (IDE) حيث تقوم عملية clazy بكتابة ملف YAML يحتوي على</li>
           <li xml:lang="ca">per a la integració en els IDE a on el procés clazy escriu un fitxer YAML que conté</li>
           <li xml:lang="ca-valencia">per a la integració en els IDE a on el procés clazy escriu un fitxer YAML que conté</li>
+          <li xml:lang="es">para la integración en los IDE donde el proceso clazy escribe un archivo YAML que contiene</li>
           <li xml:lang="he">לשילוב בסביבות פיתוח משולבות (IDEs) שבהן התהליך clazy כותב קובץ YAML שמכיל</li>
           <li xml:lang="it">per l'integrazione negli IDE in cui il processo clazy scrive un file YAML contenente</li>
           <li xml:lang="ka">იმ IDE-ებთან ინტეგრაციისთვის, სადაც clazy-ის პროცესი წერს YAML ფაილს, რომელიც შეიცავს</li>
@@ -251,6 +256,7 @@
           <li xml:lang="ar">الرسائل، والنطاقات، واختياريًا الإصلاحات</li>
           <li xml:lang="ca">els missatges, intervals i, opcionalment, correccions</li>
           <li xml:lang="ca-valencia">els missatges, intervals i, de manera opcional, correccions</li>
+          <li xml:lang="es">los mensajes, los intervalos y correcciones opcionales.</li>
           <li xml:lang="fr">les messages, les intervalles et éventuellement les correctifs</li>
           <li xml:lang="he">את ההודעות, הטווחים והצעות לתיקון כרשות</li>
           <li xml:lang="it">i messaggi, gli intervalli e, facoltativamente, i fixit</li>
@@ -359,6 +365,7 @@
           <li xml:lang="ar">إصلاحات detaching-temporary/detaching-member أكثر موثوقية مع نطاقات الإصلاح لاستدعاءات المعاملات</li>
           <li xml:lang="ca">Les correccions «detaching-temporary»/«detaching-member» són més fiables amb els intervals de correccions per a crides d'operador</li>
           <li xml:lang="ca-valencia">Les correccions «detaching-temporary»/«detaching-member» són més fiables amb els intervals de correccions per a crides d'operador</li>
+          <li xml:lang="es">Las correcciones para detaching-temporary/detaching-member son más fiables con intervalos de correcciones para llamadas de operador.</li>
           <li xml:lang="fr">Les correctifs pour detaching-temporary / detaching-member sont plus fiables avec des plages de correctifs pour les appels d'opérateur</li>
           <li xml:lang="it">I fixit per detaching-temporary/detaching-member sono più affidabili con intervalli di fixit per le chiamate dell'operatore</li>
           <li xml:lang="ka">გასწორდა დროებით მოხსნის/წევრის მოხსნის საიმედოობა ოპერატორის გამოძახებების შუალედებისთვის</li>
@@ -385,6 +392,7 @@
           <li xml:lang="ar">إصلاح طريقة الاستبدال الخاطئة لـ QMap::operator[]</li>
           <li xml:lang="ca">Corregeix un mètode de reemplaçament incorrecte per a QMap::operator[]</li>
           <li xml:lang="ca-valencia">Corregix un mètode de reemplaçament incorrecte per a QMap::operator[]</li>
+          <li xml:lang="es">Corrección para el método de sustitución erróneo para QMap::operator[]</li>
           <li xml:lang="fr">Correction de la méthode de remplacement incorrecte pour QMap::operator[]</li>
           <li xml:lang="he">תוקנה מתודת החלפה שגויה ל־QMap::operator[]‎</li>
           <li xml:lang="it">Corregge il metodo di sostituzione errato per QMap::operator[]</li>
@@ -399,6 +407,7 @@
           <li xml:lang="ar">جعل المشروع يترجم باستخدام LLVM22. إصلاح اختبارات qhash-namespace و fully-qualified-moc-types و old-style-connect</li>
           <li xml:lang="ca">Fa que el projecte compili amb LLVM22. S'han corregit les proves «qhash-namespace», «fully-qualified-moc-types», «old-style-connect»</li>
           <li xml:lang="ca-valencia">Fa que el projecte compile amb LLVM22. S'han corregit les proves «qhash-namespace», «fully-qualified-moc-types», «old-style-connect»</li>
+          <li xml:lang="es">Hacer el proyecto compatible con LLVM22. Se han corregido qhash-namespace, fully-qualified-moc-types y old-style-connect tests.</li>
           <li xml:lang="he">אפשר לגרום למיזם לעבור הידור עם LLVM22. הבדיקות qhash-namespace‏, fully-qualified-moc-types,‏ old-style-connect תוקנו</li>
           <li xml:lang="it">Rende il progetto compilabile con LLVM22. I test qhash-namespace, fully-qualified-moc-types e old-style-connect sono stati corretti</li>
           <li xml:lang="ka">პროექტი ახლა LLVM22-ით კომპილირდება. ასევე გასწორდა შემოწმებები qhash-namespace, fully-qualified-moc-types და old-style-connect</li>
@@ -559,6 +568,7 @@
           <li xml:lang="ar">qt6-qhash-signature: تطويع الفحص لاستخدام منطق أنسب لعمليات القسر وإصلاح الانهيار في الحالات الحدية</li>
           <li xml:lang="ca">qt6-qhash-signature: adapta la comprovació per a utilitzar una lògica més adequada per a les conversions i corregeix una fallada en casos extrems</li>
           <li xml:lang="ca-valencia">qt6-qhash-signature: adapta la comprovació per a utilitzar una lògica més adequada per a les conversions i corregix una fallada en casos extrems</li>
+          <li xml:lang="es">qt6-qhash-signature: Se ha adaptado la comprobación para que use una lógica más adecuada para moldeado y se ha corregido un fallo en casos extremos.</li>
           <li xml:lang="it">qt6-qhash-signature: adatta il controllo per utilizzare una logica più appropriata per i cast e corregge l'arresto anomalo nei casi limite</li>
           <li xml:lang="ka">qt6-qhash-signature: შემოწმება გარდაქმნებისთვის უფრო მართებული ლოგიკის გამოსაყენებლად შეიცვალა და გასწორდა ავარია გამონაკლის შემთხვევებში</li>
           <li xml:lang="nl">qt6-qhash-signature: pas de controle aan om een ​​betere logica voor typeconversies te gebruiken en verhelp de crash in uitzonderlijke gevallen</li>
@@ -617,6 +627,7 @@
           <li xml:lang="ar">أصبح بالإمكان دمج كلازي في clang-tidy - أمر واحد ليحكمهم جميعًا!</li>
           <li xml:lang="ca">El clazy finalment es pot integrar a clang-tidy, una ordre per a governar</li>
           <li xml:lang="ca-valencia">clazy finalment es pot integrar a clang-tidy, una ordre per a governar</li>
+          <li xml:lang="es">Clazy se puede integrar por fin en clang-tidy: ¡una orden para gobernarlos</li>
           <li xml:lang="fr">Clazy peut enfin être intégré à clang-tidy - une commande pour tout contrôler</li>
           <li xml:lang="he">אפשר לשלב את Clazy לתוך clang-tidy - פקודה אחת</li>
           <li xml:lang="it">Clazy può finalmente essere integrato in clang-tidy: un comando per governare tutto</li>
@@ -631,6 +642,7 @@
           <li xml:lang="ar">يمكن تفعيل كافة الفحوصات باستخدام "clazy-&lt;checkname&gt;". على سبيل المثال:</li>
           <li xml:lang="ca">a tots ells! Totes les comprovacions es poden habilitar utilitzant «clazy-&lt;checkname&gt;». Per exemple:</li>
           <li xml:lang="ca-valencia">a tots ells! Totes les comprovacions es poden habilitar utilitzant «clazy-&lt;checkname&gt;». Per exemple:</li>
+          <li xml:lang="es">a todos! Todas las comprobaciones se pueden activar usando «clazy-&lt;checkname&gt;». Por ejemplo:</li>
           <li xml:lang="he">שולטת בכולן! אפשר להפעיל את כל הבדיקות באמצעות „clazy-&lt;checkname&gt;”. למשל:</li>
           <li xml:lang="it">Tutti i controlli possono essere abilitati usando "clazy-&lt;checkname&gt;". Ad esempio:</li>
           <li xml:lang="ka">ყველა მათგანს! ყველა შემოწმების გააქტიურება შესაძლებელია "clazy-&lt;checkname&gt;" გამოყენებით. მაგალითად:</li>
@@ -644,6 +656,7 @@
           <li xml:lang="ar">`clazy-qstring-arg,clazy-qfileinfo-exists` ، تفعيل كافة الفحوصات باستخدام</li>
           <li xml:lang="ca">`clazy-qstring-arg,clazy-qfileinfo-exists`, habilita totes les comprovacions usant</li>
           <li xml:lang="ca-valencia">`clazy-qstring-arg,clazy-qfileinfo-exists`, habilita totes les comprovacions utilitzant</li>
+          <li xml:lang="es">`clazy-qstring-arg,clazy-qfileinfo-exists`, activando todas las comprobaciones que usan</li>
           <li xml:lang="fr">« clazy-qstring-arg, clazy-qfileinfo-exists », activation de toutes les vérifications en utilisant</li>
           <li xml:lang="he">`clazy-qstring-arg,clazy-qfileinfo-exists`, מה שמאפשר את כל הבדיקות באמצעות</li>
           <li xml:lang="it">`clazy-qstring-arg,clazy-qfileinfo-exists`, abilitazione di tutti i controlli utilizzando</li>
@@ -659,6 +672,7 @@
           <li xml:lang="ar">`clazy-*` سيفعل أيضًا الفحوصات اليدوية. ينصح بأن يكون التحديد أكثر دقة.</li>
           <li xml:lang="ca">`clazy-*` també habilitarà les comprovacions manuals. Es recomana ser més granular.</li>
           <li xml:lang="ca-valencia">`clazy-*` també habilitarà les comprovacions manuals. Es recomana ser més granular.</li>
+          <li xml:lang="es">`clazy-*` también activará las comprobaciones manuales. Se recomienda para que sea más granular.</li>
           <li xml:lang="he">`clazy-*‎` יפעיל גם בדיקות ידניות. מומלץ כדי לבחור נקודתית.</li>
           <li xml:lang="it">`clazy-*` abiliterà anche i controlli manuali. Si consiglia di essere piùgranulari.</li>
           <li xml:lang="ka">clazy-* ასევე გაააქტიურებს ხელით შემოწმებებს უფრო დეტალური პარამეტრების გამოყენებაა რეკომენდებული.</li>
@@ -672,6 +686,7 @@
           <li xml:lang="ar">يمكن تحميل الملحق باستخدام `-load=ClazyClangTidy.so` ، ولهذا يجب أن يكون الملحق</li>
           <li xml:lang="ca">El connector es pot carregar utilitzant `-load=ClazyClangTidy.so`, per a això, el connector</li>
           <li xml:lang="ca-valencia">El connector es pot carregar utilitzant `-load=ClazyClangTidy.so`, per a açò, el connector</li>
+          <li xml:lang="es">Se puede cargar el complemento usando `-load=ClazyClangTidy.so`. Para ello, el complemento</li>
           <li xml:lang="he">אפשר לטעון את התוסף באמצעות `‎-load=ClazyClangTidy.so`, לשם כך, התוסף</li>
           <li xml:lang="it">L'estensione può essere caricata utilizzando `-load=ClazyClangTidy.so`, per questo, l'estensione</li>
           <li xml:lang="ka">დამატების ჩატვირთვა შესაძლებელია -load=ClazyClangTidy.so გამოყენებით ამისთვის დამატება</li>
@@ -685,6 +700,7 @@
           <li xml:lang="ar">في LD_LIBRARY_PATH. وإلا، فيمكن تحديد مسار مطلق.</li>
           <li xml:lang="ca">ha d'estar en el LD_LIBRARY_PATH. En cas contrari, es pot especificar un camí absolut.</li>
           <li xml:lang="ca-valencia">ha d'estar en el LD_LIBRARY_PATH. En cas contrari, es pot especificar un camí absolut.</li>
+          <li xml:lang="es">debe residir en LD_LIBRARY_PATH. En caso contrario, se debe indicar una ruta absoluta.</li>
           <li xml:lang="he">חייב להיות חלק מ־LD_LIBRARY_PATH. אחרת, צריך לציין נתיב מוחלט.</li>
           <li xml:lang="it">deve essere in LD_LIBRARY_PATH. In caso contrario, è possibile specificare un percorso assoluto.</li>
           <li xml:lang="ka">უნდა იყოს LD_LIBRARY_PATH-ში. წინააღმდეგ შემთხვევაში შესაძლებელია აბსოლუტური გზის მითითება.</li>
@@ -698,6 +714,7 @@
           <li xml:lang="ar">يوفر isempty-vs-count الآن إصلاحات لكافة السيناريوهات. كما أن الحالات التي</li>
           <li xml:lang="ca">isempty-vs-count ara proporciona correccions per a tots els escenaris. A més, casos on</li>
           <li xml:lang="ca-valencia">isempty-vs-count ara proporciona correccions per a tots els escenaris. A més, casos on</li>
+          <li xml:lang="es">isempty-vs-count proporciona ahora correcciones para todos los escenarios. Además, ahora</li>
           <li xml:lang="fr">isempty-vs-count fournit désormais FixIt pour tous les scénarios. De plus, les cas où</li>
           <li xml:lang="it">isempty-vs-count ora fornisce fixit per tutti gli scenari. Inoltre, i casi in cui</li>
           <li xml:lang="ka">isempty-vs-count ახლა უკვე ყველა სცენარისთვის უზრუნველყოფს Fixit-ებს. ასევე, შემთხვევებშიც, სადაც</li>
@@ -711,6 +728,7 @@
           <li xml:lang="ar">يقارن فيها الطول باستخدام "== 0"، "&lt; 1"، "&gt; 0" يُبلغ عنها الآن ولها إصلاحات.</li>
           <li xml:lang="ca">la longitud es compara utilitzant "== 0", "&lt; 1", "&gt; 0" ara s'informen i tenen correccions.</li>
           <li xml:lang="ca-valencia">la llargària es compara utilitzant "== 0", "&lt; 1", "&gt; 0" ara s'informen i tenen correccions.</li>
+          <li xml:lang="es">se informa de los casos cuya longitud se compara con «== 0», «&lt; 1», «&gt; 0» y se proponen soluciones.</li>
           <li xml:lang="fr">la longueur est comparée en utilisant « == 0 », « &lt; 1 », « &gt; 0 ». Elles sont maintenant signalées et disposent FixIt.</li>
           <li xml:lang="it">la lunghezza viene confrontata utilizzando "== 0", "&lt; 1", "&gt; 0" ora vengono segnalati e hanno fixit.</li>
           <li xml:lang="ka">სიგრძე შედარებულია "== 0" "&lt; 1" "&gt; 0" გამოყენებით ახლა უკვე აღირიცხება და გააჩნია Fixit-ები.</li>
@@ -724,6 +742,7 @@
           <li xml:lang="ar">تعد فحوصات النقل qt6-\* مهجورة الآن وستزال في الإصدار القادم من كلازي</li>
           <li xml:lang="ca">qt6-\* L'adaptació de les comprovacions ara es consideren obsoletes i s'eliminaran en la propera versió de clazy</li>
           <li xml:lang="ca-valencia">qt6-\* L'adaptació de les comprovacions ara es consideren obsoletes i s'eliminaran en la propera versió de clazy</li>
+          <li xml:lang="es">Las comprobaciones de adaptación a qt6-\* se consideran obsoletas ahora y se eliminarán en la próxima versión de clazy.</li>
           <li xml:lang="he">בדיקות הסבה מסוג qt6-\* נחשבות למיושנות מעתה והן תוסרנה במהדורה הבאה של clazy</li>
           <li xml:lang="it">qt6-\* I controlli di conversione sono ora considerati deprecati e saranno rimossi nella prossima versione di clazy</li>
           <li xml:lang="ka">qt6-\* პორტირების შემოწმებები ახლა უკვე მოძველებულად ითვლება და clazy-ს შემდეგ ვერსიაში ამოღებული იქნება</li>
@@ -1156,6 +1175,7 @@
           <li xml:lang="ar">يوفر فحص qstring-arg إصلاحًا آليًا</li>
           <li xml:lang="ca">la comprovació qstring-arg proporciona una correcció</li>
           <li xml:lang="ca-valencia">la comprovació qstring-arg proporciona una correcció</li>
+          <li xml:lang="es">La comprobación qstring-arg proporciona una solución.</li>
           <li xml:lang="fr">qstring-arg check provides a fix-it</li>
           <li xml:lang="it">Il controllo qstring-arg fornisce un fixit</li>
           <li xml:lang="ka">qstring-arg შემოწმება მოგაწვდით გასწორებას</li>
@@ -1169,6 +1189,7 @@
           <li xml:lang="ar">إصلاح unused-non-trivial-variable لكي لا يحذر عند ضبط [[maybe_unused]]</li>
           <li xml:lang="ca">S'ha corregit unused-non-trivial-variable per no avisar quan s'ha establert [[maybe_unused]]</li>
           <li xml:lang="ca-valencia">S'ha corregit unused-non-trivial-variable per no avisar quan s'ha establit [[maybe_unused]]</li>
+          <li xml:lang="es">Se ha corregido que unused-non-trivial-variable no generara una advertencia cuando se usaba [[maybe_unused]].</li>
           <li xml:lang="fr">Correction de unused-non-trivial-variable pour ne pas avertir lorsque [[maybe_unused]] est défini</li>
           <li xml:lang="it">Corretto unused-non-trivial-variable che non avvisa quando è impostato [[maybe_unused]]</li>
           <li xml:lang="ka">გასწორდა unused-non-trivial-variable რომ არ გამოაგდოს გაფრთხილება, როცა [[maybe_unused]] დაყენებულია</li>
@@ -1670,6 +1691,7 @@
           <li xml:lang="ar">إصلاح آلي لـ missing-qobject-macro</li>
           <li xml:lang="ca">correcció de missing-qobject-macro</li>
           <li xml:lang="ca-valencia">correcció de missing-qobject-macro</li>
+          <li xml:lang="es">Solución para missing-qobject-macro</li>
           <li xml:lang="fr">FixIt pour missing-qobject-macro</li>
           <li xml:lang="it">fixit per missing-qobject-macro</li>
           <li xml:lang="ka">გასწორება missing-qobject-macro-ისთვის</li>
@@ -1720,6 +1742,7 @@
           <li xml:lang="ar">إشارة محملة بشكل زائد (overloaded)</li>
           <li xml:lang="ca">senyal de sobrecarregat</li>
           <li xml:lang="ca-valencia">senyal de sobrecarregat</li>
+          <li xml:lang="es">señal sobrecargada</li>
           <li xml:lang="fr">signal surchargé</li>
           <li xml:lang="it">segnale sovraccarico</li>
           <li xml:lang="ka">გადატვირთული სიგნალი</li>
@@ -1733,6 +1756,7 @@
           <li xml:lang="ar">تواقيع JNI غير صالحة</li>
           <li xml:lang="ca">signatures JNI no vàlides</li>
           <li xml:lang="ca-valencia">signatures JNI no vàlides</li>
+          <li xml:lang="es">Firmas JNI no válidas</li>
           <li xml:lang="fr">signatures JNI non valables</li>
           <li xml:lang="he">חתימות JNI שגויות</li>
           <li xml:lang="it">firme JNI non valide</li>
@@ -1777,6 +1801,7 @@
           <li xml:lang="ar">heap-allocated-small-trivial-type: إيجابيات زائفة أقل</li>
           <li xml:lang="ca">heap-allocated-small-trivial-type: menys falsos positius</li>
           <li xml:lang="ca-valencia">heap-allocated-small-trivial-type: menys falsos positius</li>
+          <li xml:lang="es">heap-allocated-small-trivial-type: menos falsos positivos</li>
           <li xml:lang="fr">heap-allocated-small-trivial-type : moins de faux positifs</li>
           <li xml:lang="he">heap-allocated-small-trivial-type: פחות חיוביים כוזבים</li>
           <li xml:lang="it">heap-allocated-small-trivial-type: meno falsi positivi</li>
@@ -1916,6 +1941,7 @@
           <li xml:lang="ar">qproperty-type-mismatch، ساهم به Jean-Michaël Celerier</li>
           <li xml:lang="ca">qproperty-type-mismatch, aportat per Jean-Michaël Celerier</li>
           <li xml:lang="ca-valencia">qproperty-type-mismatch, aportat per Jean-Michaël Celerier</li>
+          <li xml:lang="es">qproperty-type-mismatch, gracias a Jean-Michaël Celerier</li>
           <li xml:lang="fr">qproperty-type-mismatch, avec la contribution de Jean-Michaël Celerier</li>
           <li xml:lang="he">qproperty-type-mismatch, נתרם על ידי ז׳אן מישאל סלרייה</li>
           <li xml:lang="it">qproperty-type-mismatch, contributo di Jean-Michaël Celerier</li>
@@ -2080,6 +2106,7 @@
           <li xml:lang="ar">إصلاح التراجعات مع LLVM 9.0</li>
           <li xml:lang="ca">S'han corregit les regressions amb LLVM 9.0</li>
           <li xml:lang="ca-valencia">S'han corregit les regressions amb LLVM 9.0</li>
+          <li xml:lang="es">Se han corregido regresiones con LLVM 9.0.</li>
           <li xml:lang="fr">Correction des régressions avec LLVM 9.0</li>
           <li xml:lang="he">תוקנו תקלות חוזרות מול LLVM 9.0</li>
           <li xml:lang="it">Regressioni corrette con LLVM 9.0</li>
@@ -2190,7 +2217,7 @@
           <li xml:lang="ar">إصلاحات آلية جديدة:</li>
           <li xml:lang="ca">Correccions noves:</li>
           <li xml:lang="ca-valencia">Correccions noves:</li>
-          <li xml:lang="es">Nuevas correcciones de fallos:</li>
+          <li xml:lang="es">Nuevas soluciones:</li>
           <li xml:lang="fr">Nouvelles corrections :</li>
           <li xml:lang="he">Fixitים חדשים:</li>
           <li xml:lang="it">Nuovi fixit:</li>
@@ -2246,6 +2273,7 @@
           <li xml:lang="ar">تقديم متغير البيئة CLAZY_FIXIT_SUFFIX</li>
           <li xml:lang="ca">S'ha introduït la variable «env» de CLAZY_FIXIT_SUFFIX</li>
           <li xml:lang="ca-valencia">S'ha introduït la variable «env» de CLAZY_FIXIT_SUFFIX</li>
+          <li xml:lang="es">Se ha introducido la variable de entorno CLAZY_FIXIT_SUFFIX</li>
           <li xml:lang="fr">Introduction de la variable d'environnement « CLAZY_FIXIT_SUFFIX »</li>
           <li xml:lang="he">משתנה הסביבה CLAZY_FIXIT_SUFFIX הושק</li>
           <li xml:lang="it">Introdotta la variabile di ambiente CLAZY_FIXIT_SUFFIX</li>
@@ -2261,6 +2289,7 @@
         <p xml:lang="ar">أزيل دعم الخيار الغامض -DCLAZY_BUILD_UTILS_LIB لتبسيط ملف CMakeLists.txt</p>
         <p xml:lang="ca">S'ha eliminat el suport per a l'obscur -DCLAZY_BUILD_UTILS_LIB per a simplificar els CMakeLists.txt</p>
         <p xml:lang="ca-valencia">S'ha eliminat el suport per a l'obscur -DCLAZY_BUILD_UTILS_LIB per a simplificar els CMakeLists.txt</p>
+        <p xml:lang="es">Se ha eliminado la compatibilidad con la opción arcana -DCLAZY_BUILD_UTILS_LIB para simplificar el CMakeLists.txt</p>
         <p xml:lang="he">הוסרה תמיכה ב־‎-DCLAZY_BUILD_UTILS_LIB הערטילאי כדי לפשט את ה־CMakeLists.txt</p>
         <p xml:lang="it">Rimosso il supporto per l'oscuro -DCLAZY_BUILD_UTILS_LIB per semplificare CMakeLists.txt</p>
         <p xml:lang="ka">წაიშალა ნაკლებად ცნობილი -DCLAZY_BUILD_UTILS_LIB-ის მხარდაჭერა CMakeLists.txt-ის გასამარტივებლად</p>
@@ -2274,6 +2303,7 @@
         <p xml:lang="ar">تغير اسم ملحق كلازي من ClangLazy.so إلى ClazyPlugin.so</p>
         <p xml:lang="ca">S'ha canviat el nom del connector clazy de ClangLazy.so a ClazyPlugin.so</p>
         <p xml:lang="ca-valencia">S'ha canviat el nom del connector clazy de ClangLazy.so a ClazyPlugin.so</p>
+        <p xml:lang="es">Se ha cambiado el nombre del complemento clazy de ClangLazy.so a ClazyPlugin.so</p>
         <p xml:lang="fr">Le module externe de Clazy a été renommé de ClangLazy.so à ClazyPlugin.so</p>
         <p xml:lang="he">השם של תוסף clazy השתנה מ־ClangLazy.so ל־ClazyPlugin.so</p>
         <p xml:lang="it">Rinominata l'estensione Clazy da ClangLazy.so a ClazyPlugin.so</p>
@@ -2427,6 +2457,7 @@
           <li xml:lang="ar">qt-keywords، مع تضمين الإصلاح الآلي</li>
           <li xml:lang="ca">qt-keywords, amb correcció inclosa</li>
           <li xml:lang="ca-valencia">qt-keywords, amb correcció inclosa</li>
+          <li xml:lang="es">qt-keywords, con solución incluida</li>
           <li xml:lang="fr">qt-keywords, avec FixIt inclus</li>
           <li xml:lang="it">qt-keywords, con fixit incluso</li>
           <li xml:lang="ka">qt-keywords, Fixit-ის ჩათვლით</li>
@@ -2636,6 +2667,7 @@
         <p xml:lang="ar">تغير اسم HiddenLevel إلى ManualLevel</p>
         <p xml:lang="ca">HiddenLevel s'ha canviat de nom a ManualLevel</p>
         <p xml:lang="ca-valencia">HiddenLevel s'ha canviat de nom a ManualLevel</p>
+        <p xml:lang="es">Se ha cambiado el nombre de HiddenLevel a ManualLevel</p>
         <p xml:lang="fr">HiddenLevel a été renommé en ManualLevel</p>
         <p xml:lang="he">השם של HiddenLevel השתנה לשם ManualLevel</p>
         <p xml:lang="it">HiddenLevel è stato rinominato in ManualLevel</p>
@@ -2999,6 +3031,7 @@
           <li xml:lang="ar">ملف clazy-standalone التنفيذي. يسمح بتشغيل كلازي مقابل قاعدة بيانات تجميع JSON بدلًا من كونه ملحقًا. لا يدعم clang-tidy تحميل وحدات خارجية (https://github.com/llvm/llvm-project/issues/32086) لذا يعد هذا حلًا جيدًا.</li>
           <li xml:lang="ca">executable de clazy-standalone. Permet executar el clazy amb una base de dades de compilació JSON en lloc de com a connector. El clang-tidy no admet la càrrega de mòduls externs (https://github.com/llvm/llvm-project/issues/32086) així que aquesta és una solució bona.</li>
           <li xml:lang="ca-valencia">executable de clazy-standalone. Permet executar clazy amb una base de dades de compilació JSON en lloc de com a connector. clang-tidy no admet la càrrega de mòduls externs (https://github.com/llvm/llvm-project/issues/32086) així que esta és una solució bona.</li>
+          <li xml:lang="es">Ejecutable clazy-standalone executable: Permite ejecutar clazy contra una base de datos JSON de compilación en lugar de como un complemento.clang-tidy no permite cargar módulos externos (https://github.com/llvm/llvm-project/issues/32086), por lo que esto supone una buena solución.</li>
           <li xml:lang="he">קובץ ההפעלה clazy-standalone. מאפשר להריץ את clazy כנגד מסד נתוני הידור ב־JSON במקום כתוסף. clang-tidy לא תומך בטעינת מודולים חיצוניים (https://github.com/llvm/llvm-project/issues/32086) אז זאת דרך לעקוף את זה.</li>
           <li xml:lang="it">Eseguibile clazy-standalone. Permette di eseguire clazy su un database di compilazione JSON anziché come estensione. clang-tidy non supporta il caricamento di moduli esterni (https://github.com/llvm/llvm-project/issues/32086), quindi questa è una buona soluzione alternativa.</li>
           <li xml:lang="ka">clazy-standalone გამშვები ფაილი საშუალებას იძლევა, clazy გაეშვას JSON კომპილაციის მონაცემთა ბაზაზე დანატების ნაცვლად. clang-tidy-ს არ აქვს გარე მოდულების ჩატვირთვის მხარდაჭერა(https://github.com/llvm/llvm-project/issues/32086), ამიტომ ეს კარგი გამოსავალია.</li>
@@ -3012,6 +3045,7 @@
           <li xml:lang="ar">وضع qt-compat. يسمح بتعطيل الفحوصات الخاصة بـ Qt5 عبر تمرير -Xclang -plugin-arg-clazy -Xclang qt4-compat</li>
           <li xml:lang="ca">Mode «qt-compat». Permet desactivar les comprovacions específiques de les Qt5 passant -Xclang -plugin-arg-clazy -Xclang qt4-compat</li>
           <li xml:lang="ca-valencia">Mode «qt-compat». Permet desactivar les comprovacions específiques de les Qt5 passant -Xclang -plugin-arg-clazy -Xclang qt4-compat</li>
+          <li xml:lang="es">Modo qt-compat mode: Permitir desactivar comprobaciones específicas de Qt5 pasando -Xclang -plugin-arg-clazy -Xclang qt4-compat</li>
           <li xml:lang="he">מצב qt-compat. מאפשר להשבית בדיקות נקודתיות ל־Qt5 על ידי העברת ‎-Xclang -plugin-arg-clazy -Xclang qt4-compat</li>
           <li xml:lang="it">Modalità qt-compat. Consente di disabilitare i controlli specifici di Qt5 passando -Xclang -plugin-arg-clazy -Xclang qt4-compat</li>
           <li xml:lang="ka">qt-compat რეჟიმი. საშუალებას იძლევა Qt5-ის სპეციფიკური შემოწმებები გაითიშოს -Xclang -plugin-arg-clazy -Xclang qt4-compat პარამეტრების გადაცემით</li>
@@ -3025,6 +3059,7 @@
           <li xml:lang="ar">يفحص returning-data-from-temporary الآن مصفوفات QByteArrays المؤقتة التي تُقسر إلى *char عند إرجاعها</li>
           <li xml:lang="ca">return-data-from-temporary ara comprova si hi ha conversions QByteArrays temporals a char* quan retornen</li>
           <li xml:lang="ca-valencia">return-data-from-temporary ara comprova si hi ha conversions QByteArrays temporals a char* quan retornen</li>
+          <li xml:lang="es">returning-data-from-temporary comprueba ahora el moldeado de QByteArrays a char* cuando se devuelve.</li>
           <li xml:lang="it">returning-data-from-temporary ora controlla il cast temporaneo di QByteArrays in char* quando restituito</li>
           <li xml:lang="ka">returning-data-from-temporary ახლა დაბრუნებისას ამოწმებს დროებითი QByteArray-ების char*-ში გარდაქმნას</li>
           <li xml:lang="nl">De functie `returning-data-from-temporary` controleert nu of tijdelijke QByteArrays worden gecast naar char* wanneer ze worden geretourneerd</li>
@@ -3037,6 +3072,7 @@
           <li xml:lang="ar">يفحص returning-data-from-temporary الآن الإسناد أيضًا، وليس فقط جمل الإرجاع</li>
           <li xml:lang="ca">return-data-from-temporary ara també comprova les assignacions, no només retorna les sentències</li>
           <li xml:lang="ca-valencia">return-data-from-temporary ara també comprova les assignacions, no només retorna les sentències</li>
+          <li xml:lang="es">returning-data-from-temporary ahora también comprueba asignaciones, no solo sentencias return.</li>
           <li xml:lang="he">returning-data-from-temporary בודק מעתה גם הקצאות, לא רק הצהרות החזרה (return statements)</li>
           <li xml:lang="it">returning-data-from-temporary ora controlla anche l'assegnazione, non solo le istruzioni return</li>
           <li xml:lang="ka">returning-data-from-temporary ახლა ამოწმებს მინიჭებებსაც, არა, მხოლოდ, დაბრუნებულ ოპერატორებს</li>
@@ -3050,6 +3086,7 @@
           <li xml:lang="ar">يحذر unused-non-trivial-variable الآن من QList و QVector غير المستخدمة وأنواع كثيرة أخرى</li>
           <li xml:lang="ca">unused-non-trivial-variable ara avisa de QList, QVector i molts més tipus no utilitzats</li>
           <li xml:lang="ca-valencia">unused-non-trivial-variable ara avisa de QList, QVector i molts més tipus no utilitzats</li>
+          <li xml:lang="es">unused-non-trivial-variable muestra ahora una advertencia para QList, QVector y otros tipos no usados.</li>
           <li xml:lang="he">unused-non-trivial-variable מזהיר מעתה על QList,‏ QVector ומגוון סוגים נוספים כשאינם בשימוש</li>
           <li xml:lang="it">unused-non-trivial-variable ora avvisa per QList, QVector e molti altri tipi non utilizzati</li>
           <li xml:lang="ka">unused-non-trivial-variable ახლა გაგაფრთხილებთ გამოუყენებელი QList, QVector და კიდევ ბევრი სხვა ტიპისთვის</li>
@@ -3063,6 +3100,7 @@
           <li xml:lang="ar">أصبحت الفحوصات المبنية على ASTMatchers مدعومة الآن</li>
           <li xml:lang="ca">ara s'admeten comprovacions basades en ASTMatchers</li>
           <li xml:lang="ca-valencia">ara s'admeten comprovacions basades en ASTMatchers</li>
+          <li xml:lang="es">Compatibilidad con las comprobaciones basadas en ASTMatchers.</li>
           <li xml:lang="fr">Les vérifications reposant sur ASTMatchers sont maintenant prises en charge.</li>
           <li xml:lang="he">בדיקות מבוססות ASTMatchers נתמכות מעתה</li>
           <li xml:lang="it">Ora sono supportati i controlli basati su ASTMatcher</li>
@@ -3077,6 +3115,7 @@
           <li xml:lang="ar">أُسقط دعم clang 3.7 بسبب عدم توافق سورس ASTMatchers.</li>
           <li xml:lang="ca">El clang 3.7 s'ha eliminat per les incompatibilitats del codi font d'ASTMatchers.</li>
           <li xml:lang="ca-valencia">clang 3.7 s'ha eliminat per les incompatibilitats del codi font d'ASTMatchers.</li>
+          <li xml:lang="es">Se ha descartado clang 3.7 debido a incompatibilidades de código con ASTMatchers.</li>
           <li xml:lang="fr">Clang 3.7 a été abandonné en raison d'incompatibilités de source avec ASTMatchers.</li>
           <li xml:lang="he">clang 3.7 הושמט עקב חוסר תאימות עם מקור ASTMatchers.</li>
           <li xml:lang="it">clang 3.7 è stato abbandonato a causa di incompatibilità con il codice sorgente di ASTMatcher.</li>
@@ -3091,6 +3130,7 @@
           <li xml:lang="ar">استخدم clazy v1.1 لدعم clang &gt;= 3.6</li>
           <li xml:lang="ca">Usa el clazy v1.1 per a la implementació de clang &gt;= 3.6</li>
           <li xml:lang="ca-valencia">Utilitza clazy v1.1 per a la implementació de clang &gt;= 3.6</li>
+          <li xml:lang="es">Usar clazy v1.1 para compatibilidad con clang &gt;= 3.6</li>
           <li xml:lang="fr">Veuillez utiliser clazy v1.1 pour la prise en charge de clang supérieur ou égal à 3.6</li>
           <li xml:lang="he">נעשה שימוש ב־clazy v1.1 לתמיכה ב־clang &gt;= 3.6</li>
           <li xml:lang="it">Utilizzo di clazy v1.1 per il supporto clang &gt;= 3.6</li>
@@ -3152,6 +3192,7 @@
           <li xml:lang="ar">دعم macOS و ويندوز</li>
           <li xml:lang="ca">Suport del macOS i el Windows</li>
           <li xml:lang="ca-valencia">Suport de macOS i Windows</li>
+          <li xml:lang="es">Compatibilidad con macOS y Windows</li>
           <li xml:lang="fr">Prise en charge de macOS et de Windows</li>
           <li xml:lang="he">תמיכה ב־macOS וב־Windows</li>
           <li xml:lang="it">Supporto macOS e Windows</li>
