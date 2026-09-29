@@ -2,7 +2,10 @@ This is dumping ground with tips for developers interested in writing their own 
 
 # Create a new check or fixit
 
-Files to create or modify:
+Just add your check to `checks.json` and run `dev-scripts/generate.py --generate`
+which will generate the files you need to write, and edit others for you.
+
+Files that are created/modified:
 
 ```
 checks/levelX/my-check.cpp
@@ -16,16 +19,13 @@ ChangeLog
 README.md
 ```
 
-Just add your check to `checks.json` and run `dev-scripts/generate.py --generate`
-which will generate the files you need to write, and edit others for you.
-
 ## Tips
 
 - Write the unit-test before the check
 
 - Dump the abstract syntax tree (AST) of your unit-test:
 
-  `./run_tests.py my-test --dump-ast`
+  `source test.prefix.sh && ./run_tests.py my-test --dump-ast`
 
   This creates a `main.cpp.ast` file, if you include Qt headers, the AST will be
   very big, your stuff will be at the end of the file. Use the AST to check which
@@ -45,6 +45,7 @@ which will generate the files you need to write, and edit others for you.
 - If you try to run the tests from the build dir directly without installation, you may get error
   messages about not finding `ClazyPlugin.so` and/or `clazy-standalone` when you call
   `run_tests.py`. This can be resolved by applying the generated `text.prefix.sh` script from the build dir.
+  Using `ctest`, those issues can be avoided entirely.
 
 ## Using ASTMatchers
 
